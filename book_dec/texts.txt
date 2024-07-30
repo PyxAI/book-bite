@@ -1,0 +1,3 @@
+curl https://api.nli.org.il/openlibrary/search?api_key=DVQyidFLOAjp12ib92pNJPmflmB5IessOq1CJQDK&query=title,exact,Jerusalem,AND;start_date,contains,1951
+
+curl 'https://api.nli.org.il/openlibrary/search?query=title,exact,jerusalem&api_key=DVQyidFLOAjp12ib92pNJPmflmB5IessOq1CJQDK'
